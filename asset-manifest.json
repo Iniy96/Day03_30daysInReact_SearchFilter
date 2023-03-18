@@ -1,0 +1,12 @@
+{
+  "files": {
+    "main.css": "/Day03_30daysInReact_SearchFilter/static/css/main.31d6cfe0.css",
+    "main.js": "/Day03_30daysInReact_SearchFilter/static/js/main.a03d311a.js",
+    "index.html": "/Day03_30daysInReact_SearchFilter/index.html",
+    "main.a03d311a.js.map": "/Day03_30daysInReact_SearchFilter/static/js/main.a03d311a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.31d6cfe0.css",
+    "static/js/main.a03d311a.js"
+  ]
+}
